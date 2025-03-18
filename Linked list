@@ -1,0 +1,16 @@
+/*
+Linked list(linear data structure):
+it is a linear data structure, it is a collection of data elements, called nodes.
+A node is a basic element of a linked list. it consists of data and the adress of the next node and forms a chain.asm
+
+A linked list is formed when many such nodes are linked together to form a chain. Each node points to the next node present in the order. The
+First node is always used as a reference to ransverse the list and is called HEAD. The last node points to NULL. 
+
+HEAD:  1st node of the list OR  adress of 1st node of the list.
+NULL: LAST ,, ,, ,, ,, ,, ,,.
+
+NODE consists of two parts I.E DATA and NEXT POINTER.  
+DATA: it is the part of node which stores the info in the linked list.
+NEXT POINTER: it is the part of node which stores the address of the next node in the linked.
+
+*/
