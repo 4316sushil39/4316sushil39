@@ -1,0 +1,21 @@
+IMPORTANCE:
+1. Dynamic data structure: size of memory can be allocated or deallocated at run time based on the opreation intertion or deletion. 
+2. EASE OF INSERTION AND DELETION : The insertion and deletion of elements are simpler than arrays since no elements need to be shifted 
+after insertion and deletion, just the address needed to be updated.
+3. EFFICIENT MEMORY UTILIZATION : As we know linked list is a dynamic data structure the size increases or decreases as per the requirement so this 
+avoids the wastage of memory
+4. IMPLEMENTATION : various advanced data structures can be implemented using a linked list like  astack, queue, hashmaps, etc.
+
+OPREATIONS : 
+creation: it is used to create a node when required. in this opreation, memory is allocated for 1 node.
+INSERTION: the insertion opreation can be performed in three ways. they are as follows :
+\1. insertion at the beginning of list. 
+2.  insertion at the end of list. 
+3. insertion at the specific location of list. 
+DELETION: The deletion can be performed in 3 ways:asm
+1. Deleting from the beginning of list.
+2.  Deleting from the end of list.
+3. Deleting a specific node.asm
+4. TRANSVERSE: This process displays the elements of linked list.asm
+5. SEARCHING : It is used for finding a particular element in a linked list.
+*/
