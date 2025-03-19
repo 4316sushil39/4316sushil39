@@ -12,7 +12,7 @@ INSERTION: the insertion opreation can be performed in three ways. they are as f
 \1. insertion at the beginning of list. 
 2.  insertion at the end of list. 
 3. insertion at the specific location of list. 
-DELETION: The deletion can be performed in 3 ways:asm
+DELETION: The deletion can be performed in 3 ways:
 1. Deleting from the beginning of list.
 2.  Deleting from the end of list.
 3. Deleting a specific node.asm
