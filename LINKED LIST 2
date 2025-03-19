@@ -19,7 +19,7 @@ DELETION: The deletion can be performed in 3 ways:
 4. TRANSVERSE: This process displays the elements of linked list.asm
 5. SEARCHING : It is used for finding a particular element in a linked list.
 */
-SINGLY LINKED LIST: last node connected to 1st.
+SINGLY LINKED LIST: each node has data and adress part that contains a reference to the next code.
 DOUBLY LINKED LIST
 CIRCULAR LINKED LIST
 
