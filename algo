@@ -1,0 +1,6 @@
+Algo: Insert node at last:
+1. create a node i.e newnode.
+2. check list is empty or not, (head == null).
+3. if empty:
+Set head = newnode
+4. if not empty:
