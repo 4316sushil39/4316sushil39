@@ -1,0 +1,39 @@
+Searching: 
+array=> 10 20 30 40 50 60 70
+mid = (start+end)/2
+start = 0
+ends = 6    n-1
+
+repeat below steps until start<= end:
+1. find mid index (mid = (start+end)/2)
+2. compare mid index value with target value:
+Linear search time complexibility: 0(n)
+Binary Search Time complexibility: 0(log n)
+
+
+
+
+Binary search algorithm:
+1. initalize two variable:
+start = 0 
+2. Compare the target value(key): Target found, return mid
+if key< arr mid[mid]: search in left half, set endIndex = mid-1
+if key< arr mid[mid]: search in right half, set endIndex = mid+1
+If not found, return -1 or "Not found".
+
+
+Sorting: process of arranging elements in a particular order. , either ascending or descending order, two types:
+1. comparison bases 
+2. non comparison based.
+Comparison bases:
+1. bubble sort     Time complexibility: 0(0^2)
+2. selection sort   time complexibility: 0(0^2)
+3. insertion sort    Time complexibility: 
+4. quick sort         Time complexibility:          
+5. merge sort         Time complexibility:
+6. heap sort         Time complexibility:
+7. Tree sort         Time complexibility:
+non comparison based:
+1. Radix sort
+2. conting sort
+3. bucket sort
